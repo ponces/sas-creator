@@ -1,6 +1,12 @@
 
 ## Usage on Linux
 
+Generate su variant from any:
+```
+sudo bash su.sh system.img
+```
+The output for above would be `s-su.img`.
+
 Generate secure variant from any:
 ```
 sudo bash securize.sh system.img
